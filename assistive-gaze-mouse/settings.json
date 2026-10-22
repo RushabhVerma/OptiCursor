@@ -1,0 +1,20 @@
+{
+  "camera_index": 0,
+  "cursor": {
+    "precision_gain": 5.102822580645161,
+    "fast_gain": 8.004032258064516,
+    "speed_for_max_gain": 0.8
+  },
+  "gestures": {
+    "default_eyebrow_threshold": 0.45,
+    "default_lip_pucker_threshold": 0.92,
+    "click_hold_ms": 400.0,
+    "blink_veto_threshold": 0.2
+  },
+  "scroll": {
+    "open_mouth_threshold": 0.6809475806451613,
+    "open_mouth_hold_ms": 500.0,
+    "interval_ms": 160.0,
+    "dead_zone": 0.25
+  }
+}

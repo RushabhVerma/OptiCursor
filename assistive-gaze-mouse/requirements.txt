@@ -1,0 +1,9 @@
+# Core vision stack
+opencv-python==5.0.0.93
+mediapipe==1.1.0
+
+# Numerical computing (Kalman filter)
+numpy==2.5.4
+
+# C++ extension bridge (Step 4)
+pybind11==3.1.0
